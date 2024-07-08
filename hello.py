@@ -1,3 +1,5 @@
 print("Hello,world")
+print("This is v1.0")
+print("This is v1.0 feature")
 print("This is main")
 print("This is main feature")
