@@ -1,1 +1,1 @@
-# gitmerge v.1.0
+# gitmerge v.1.0 main
